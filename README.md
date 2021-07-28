@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/suma145/suma-talluri/main/images/WhatsApp%20Image%202021-06-14%20at%209.01.37%20AM.jpeg)
 
 <!-- Add your details -->
 
